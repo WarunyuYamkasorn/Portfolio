@@ -11,3 +11,4 @@
 [Activity5](Activity5.md)
 [Activity6](Activity6.md)
 [Certificate1](Certificate1.md)
+[Certificate2](Certificate2.md)
